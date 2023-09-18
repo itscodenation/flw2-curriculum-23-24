@@ -1,4 +1,4 @@
-# Lesson 1.2: Welcome & Setup
+# Lesson 1.2: IDE, Variables, & Conditionals
 
 <br>
 

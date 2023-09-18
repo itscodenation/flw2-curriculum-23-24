@@ -22,7 +22,7 @@
 - 🖱️ Navigating CodeSandbox (15) :
     - <br><br>
 
-- 📦 Variables (20) :
+- 📦 Variables (15) :
     - <br><br>
 
 - ⏳ Break (10) <br><br>
@@ -33,7 +33,7 @@
 - 🔢 JS Math & Conditionals (15) :
     - <br><br>
 
-- 💻 Code Solo (15) :
+- 💻 Code Solo (20) :
     - <br><br>
 
 - 👋 Closing (10) :

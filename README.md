@@ -6,7 +6,7 @@
 
 | Unit | # of Lessons | Project | Overview |
 | :------------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1: JavaScript Review] | 6 | ➖ | <p>Describe the course routines and procedures and review core JavaScript skills.</p>|                   
+| [1: JavaScript Review](/unit-1) | 6 | ➖ | <p>Describe the course routines and procedures and review core JavaScript skills.</p>|                   
 | [2: JSX & React] | 9 | ✔️ | <p> Students will learn about key React concepts such as components, JSX, props, and state to build a trivia game! </p>|
 | [3: Mid-Year Unit] | 2 | ➖ | <p>Student will show off their coding skills by completing a HackerRank Challenge and will have a chance to participate in a career panel.</p>|     
 | [4: React] | 9 | ✔️ | <p>Students will create a game of their choice using React to cap off their year! </p>|

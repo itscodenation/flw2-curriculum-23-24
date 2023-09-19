@@ -44,7 +44,9 @@
 - ⏳ Break (10) <br><br>
 
 - 🤨 Technical Questions (5) :
-    - <br><br>
+    - Discuss the importance of asking good technical questions.
+    - Cover how to frame and structure questions.
+    - Practice framing questions based on given scenarios.<br><br>
 
 - 🔢 JS Math & Conditionals (15) :
     - Cover basic math in JavaScript
@@ -52,10 +54,12 @@
     - Discuss the use && (and) and || (or) in conditionals.<br><br>
 
 - 💻 Code Solo (25) :
-    - <br><br>
+    - Students work individually on coding tasks using the concepts learned in the lesson.
+    - Encourage students to ask questions if they encounter any issues.<br><br>
 
 - 👋 Closing (10) :
-    - <br><br>
+    - Address any final questions or clarifications.
+    - Instruct students to complete the exit ticket for the day.<br><br>
 
 
 ## Common Misconceptions

@@ -13,17 +13,33 @@
 
 ## Key Points
 
-- 👋 Welcome & Do Now (20) : 
+- 👋 Welcome & Do Now (5) : 
     - Begin the session with a welcome message and a short activity to engage students.<br><br>
 
 - 💻 CodeSandbox Intro (10) : 
-    - <br><br>
+    - Introduce CodeSandbox and the different components.
+    - Login to CodeSandbox via Github.
+    - Quick demo: editing templates.<br><br>
 
 - 🖱️ Navigating CodeSandbox (15) :
-    - <br><br>
+    - Have students get into small groups with a volunteer.
+    - Discuss various features and panels in CodeSandbox.
+        - Renaming the Sandbox.
+        - Split screen editing.
+        - Saving changes and linking to GitHub.
+        - Live sharing with mentors.
+        - Deploying the sandboxed code.
+        - Committing changes to GitHub from CodeSandbox.<br><br>
 
 - 📦 Variables (15) :
-    - <br><br>
+    -  Introduction variables.
+    -  Cover "what is a variable?", naming conventions and rules.
+    -  Declaring and assigning values to variables.
+    -  Re-assigning values.<br><br>
+
+- 💻 Code Solo (10) :
+    - Have students work independently on the variable exercise.
+    - If they finish early, have them go to break.<br><br>
 
 - ⏳ Break (10) <br><br>
 
@@ -31,9 +47,11 @@
     - <br><br>
 
 - 🔢 JS Math & Conditionals (15) :
-    - <br><br>
+    - Cover basic math in JavaScript
+    - Introduce if, else if, and else statements.
+    - Discuss the use && (and) and || (or) in conditionals.<br><br>
 
-- 💻 Code Solo (20) :
+- 💻 Code Solo (25) :
     - <br><br>
 
 - 👋 Closing (10) :

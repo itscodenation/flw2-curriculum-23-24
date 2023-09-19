@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1LquRjA9GgfZVBdTcJcsUZCqPzvcpY0kiX_SD8va6128/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Fellowship Registration Form](https://codenation.tfaforms.net/24)
-- [Exit Ticket]
+- [Exit Ticket](https://forms.gle/r19xhQcEQ82a9iwf7)
 - No coding exercises for this lesson.
 
 <br>

@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1hYm9qvkOw2cVkOV96DX4kYl81YIDY5kWI5JSJ2xehss/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Do Now](https://forms.gle/1LGFGyc672yTNkCn9)
-- [Coding Exercise(s)]
+- [Coding Exercise(s)](https://github.com/itscodenation/flw2-u1l3-23-24-student-exercises)
 - [Exit Ticket](https://forms.gle/n1WGnbamjwos3Kz76)
 
 <br>

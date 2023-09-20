@@ -30,7 +30,7 @@
         - Organizes longer code.
         - Reusability.
         - Helps to avoid code repetition.
-    - Review the anatomy of a function: declaration, naming, parameters, function body, and function call.
+    - Review the anatomy of a function: declaration, naming, parameters, function body, and function call.<br><br>
 
 - 💻 Code Along (10) :
     - Guided coding exercise. Students code along with the instructor.

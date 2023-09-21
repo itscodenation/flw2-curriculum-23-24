@@ -1,4 +1,4 @@
-# Lesson 1.3: IDE, Variables, & Conditionals
+# Lesson 1.3: Functions Review
 
 <br>
 

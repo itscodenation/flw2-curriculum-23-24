@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1f1dD_jcoVwcrE-Mj2Ef2HeEi0X3t1wGXtqC_BkwBwUI/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Coding Exercise(s)](https://github.com/itscodenation/flw2-u1l4-23-24-student-exercises)
-- [Exit Ticket]()
+- [Exit Ticket](https://forms.gle/mFgYUw4McnJC2zkNA)
 
 <br>
 
@@ -18,7 +18,10 @@
     - Have students complete the Do Now.<br><br>
 
 - 🗂️ Arrays (15) :
-    - <br><br>
+    - Review the data types: strings, numbers, and booleans.
+    - Explain the need for data structures, such as arrays, to organize and store these data types.
+    - Introduce arrays, provide examples, and differentiate between storing multiple values in an array vs. using separate variables.
+    Discuss the syntax, index, methods, and practical examples of arrays in coding.<br><br>
 
 - 💻 Code Along (20) :
     - Guided coding exercise. Students code along with the instructor.<br><br>
@@ -26,11 +29,14 @@
 - ⏳ Break (10)<br><br>
 
 - 🎮 Objects (20) :
-    - <br><br>
+    - Introduce objects and explain their significance in associating pairs of values.
+    - Provide examples of objects in code and break down the syntax, including properties (keys) and values.
+    - Discuss how to access values within objects using dot notation.
+    - Explain and demonstrate how arrays can be included within objects and how to access those arrays.<br><br>
 
 - 💻 Code Solo (30) :
     - Have students work in small groups or independently.
-    - They should complete tasks 1-6 and are encouraged to try bonus tasks.
+    - They should complete the tasks and are encouraged to try bonus tasks.
     - Remind students that Googling and seeking solutions is a critical skill.<br><br>
 
 - 👋 Closing (15) :

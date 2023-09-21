@@ -16,7 +16,7 @@
 
 - 👋 Welcome & Do Now (10) :
     - Begin the session with a welcome message and a short activity to engage students.
-    - Have students conplete the Do Now form.
+    - Have students complete the Do Now form.
     - The form is a quick check for understanding and not punitive.<br><br>
 
 - 🔄 Do Now Review (5) :

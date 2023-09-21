@@ -1,4 +1,4 @@
-# Lesson 1.4: Array & Objects Review
+# Lesson 1.4: Arrays & Objects Review
 
 <br>
 
@@ -6,7 +6,7 @@
 
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1f1dD_jcoVwcrE-Mj2Ef2HeEi0X3t1wGXtqC_BkwBwUI/edit?usp=sharing) (make a copy for your program - link the copy)
-- [Coding Exercise(s)]()
+- [Coding Exercise(s)](https://github.com/itscodenation/flw2-u1l4-23-24-student-exercises)
 - [Exit Ticket]()
 
 <br>

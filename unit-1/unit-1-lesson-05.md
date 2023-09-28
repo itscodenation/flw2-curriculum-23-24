@@ -18,21 +18,28 @@
     - Have students complete the Do Now.<br><br>
 
 - ➰ for loops (15) :
-    - <br><br>
+    - Introduction and review of for loops and their functionality.
+    - Walkthrough of for loop syntax and example code.
+    - Engage students with questions related to the for loop code structure and its components.<br><br>
 
 - 💻 Code Along (10) :
     - Guided coding exercise. Students code along with the instructor.<br><br>
 
 📑 Documentation (5) : 
-    - <br><br>
+    - Discuss the importance of documentation and online resources.
+    - Introduce students to various platforms where they can find coding help.
+    - Equip students with the knowledge and habit of utilizing documentation and other resources for self-learning and troubleshooting.<br><br>
 
 - ⏳ Break (10)<br><br>
 
 - 🪳 Debugging (5) :
-    - <br><br>
+    -  Introduction to debugging strategies and practices.
+    -  Prepare students to troubleshoot and resolve coding errors effectively.<br><br>
 
 - ➰ forEach + for of loops (15) :
-    - <br><br>
+    -  Introduce forEach and for of loops with coding examples.
+    -  Briefly compare and contrast these loops with for loops.
+    -  Explain the difference between forEach, for of, and for loops.<br><br>
 
 - 💻 Code Solo (25) :
     - Have students work in small groups or independently.

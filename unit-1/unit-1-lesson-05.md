@@ -25,7 +25,7 @@
 - 💻 Code Along (10) :
     - Guided coding exercise. Students code along with the instructor.<br><br>
 
-📑 Documentation (5) : 
+- 📑 Documentation (5) : 
     - Discuss the importance of documentation and online resources.
     - Introduce students to various platforms where they can find coding help.
     - Equip students with the knowledge and habit of utilizing documentation and other resources for self-learning and troubleshooting.<br><br>

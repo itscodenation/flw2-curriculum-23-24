@@ -21,12 +21,17 @@
     - Have students complete the padlet survey for the Do Now.<br><br>
 
 - 🔄 JavaScript Review (45) :
-    - <br><br>
+    - Students will work in the review.js file.
+    - They'll be working in small groups. 
+    - Students should Feel free to talk through the problems together or independently.<br><br>
 
 - ⏳ Break (10)<br><br>
 
 - 👩‍💻 Portfolio Workshop (45) :
-    -  <br><br>
+    - Students will have some time to work on their portfolio.
+    - They should have started/completed one in Fellowship I.
+    - This is a time for students to go through your portfolio using the rubric.
+    - Students will add or change any sections to ensure it's up-to-date.<br><br>
 
 - 👋 Closing (10) :
     - Direct students to the Exit Ticket in the Class Agenda.

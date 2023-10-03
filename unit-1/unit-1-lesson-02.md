@@ -13,23 +13,12 @@
 
 ## Key Points
 
-- 👋 Welcome & Do Now (5) : 
+- 👋 Welcome & Do Now (10) : 
     - Begin the session with a welcome message and a short activity to engage students.<br><br>
 
-- 💻 CodeSandbox Intro (10) : 
-    - Introduce CodeSandbox and the different components.
-    - Login to CodeSandbox via Github.
-    - Quick demo: editing templates.<br><br>
-
-- 🖱️ Navigating CodeSandbox (15) :
-    - Have students get into small groups with a volunteer.
-    - Discuss various features and panels in CodeSandbox.
-        - Renaming the Sandbox.
-        - Split screen editing.
-        - Saving changes and linking to GitHub.
-        - Live sharing with mentors.
-        - Deploying the sandboxed code.
-        - Committing changes to GitHub from CodeSandbox.<br><br>
+- 💻 IDEs & Replit (10) : 
+    - Introduce Replit and the different components.
+    - Login to Replit via Github.<br><br>
 
 - 📦 Variables (15) :
     -  Introduction variables.
@@ -53,7 +42,7 @@
     - Introduce if, else if, and else statements.
     - Discuss the use && (and) and || (or) in conditionals.<br><br>
 
-- 💻 Code Solo (25) :
+- 💻 Code Solo (30) :
     - Students work individually on coding tasks using the concepts learned in the lesson.
     - Encourage students to ask questions if they encounter any issues.<br><br>
 

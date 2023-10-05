@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1KObmOnl58f4qRt7oeuGvYjWli6KYI92DfeNfUFejprk/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Coding Exercise(s)]()
-- [Exit Ticket]()
+- [Exit Ticket](https://forms.gle/uBWNqgJV8D2D2iwLA)
 
 <br>
 

@@ -18,24 +18,34 @@
     - Have students complete the Do Now.<br><br>
 
 - 𝍇  React Components (15) :
-    - <br><br>
+    - Explanation and demonstration of React components.
+    - Discussion on the importance of components: reusability, organization, efficiency.
+    - Identify components and instances in given code snippets.<br><br>
 
 - </> Writing JSX (10) :
-    - <br><br>
+    - Introduction to JSX and its importance.
+    - Compare JSX and HTML.
+    - Identify JSX code from examples.<br><br>
 
 - ⤵️ Props (25) :
-    - <br><br>
+    - Explanation of props in React and why they are used.
+    - Demonstrate passing and using props in components.
+    - Code along to create components with props.<br><br>
 
 - ⏳ Break (10)<br><br>
 
 - 🗂️ Organizing Components (10) :
-    - <br><br>
+    - Discuss the necessity of organizing code for readability and maintenance.
+    - Demonstrate importing and exporting components.
+    - Students practice creating, importing, and exporting components in separate files.<br><br>
 
 - 💻 Code Solo (10) :
-    - <br><br>
+    - Have students work in small groups or independently.
+    - Remind students that Googling and seeking solutions is a critical skill.<br><br>
 
 - 💻 Project Work Time (20) :
-    - <br><br>
+    - Students work on the project, applying the concepts learned.
+    - Volunteers circulate to provide individualized support and feedback.<br><br>
 
 - 👋 Exit Ticket & Closing (10) :
     - Direct students to the Exit Ticket in the Class Agenda.

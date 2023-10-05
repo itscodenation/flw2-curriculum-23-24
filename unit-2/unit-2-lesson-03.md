@@ -18,21 +18,29 @@
     - Have students complete the Do Now.<br><br>
 
 - 🔄 Kahoot Review (10) :
-    - <br><br>
+    - Engage students with a React Review Kahoot game to refresh their memory about previous lessons.
+    - Teachers should pay close attention to questions students struggle with to guide the review.
+    - Adjust Kahoot questions as needed based on students’ needs.<br><br>
 
 - ⚛ React Review (15) :
-    - <br><br>
+    - Discuss the basics of React, emphasizing components and JSX.
+    - Explain components as functions returning JSX and review JSX syntax with students.
+    - Highlight the use of props to make components reusable and dynamic.<br><br>
 
 - 💻 Code Along (10) :
-    - <br><br>
+    - Guide students through coding along with you to create a React application using components, JSX, and props.
+    - Focus on creating a menu for the Code Nation Creamery website using React.<br><br>
 
 - 💻 Code Solo (15) :
-    - <br><br>
+    - Allow students time to work on a solo coding exercise where they create a React app providing information on famous musical acts.
+    - Offer extension activities for early finishers.<br><br>
 
 - ⏳ Break (10)<br><br>
 
 - 💻 Project Work Time (40) :
-    - <br><br>
+    - Students continue working on Components, JSX, and Props for their Trivia project.
+    - Direct students to focus on rendering a “Next Question” button on the screen as part of Goal 2.
+    - Early finishers can work on styling or complete the extension activity from the solo exercise.<br><br>
 
 - 👋 Exit Ticket & Closing (10) :
     - Direct students to the Exit Ticket in the Class Agenda.

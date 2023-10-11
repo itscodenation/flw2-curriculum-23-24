@@ -5,8 +5,7 @@
 
 ## Deliverables
 
-- Code Nation Registration
-- Code Nation Fellowship Paperwork
+- 
 
 ---
 
@@ -14,18 +13,17 @@
 
 ### Coders will…
 
-1. Describe the purpose, routines, and procedures of fellowship.
-2. Navigate using an IDE.
-3. Review variables.
-4. Ask technical questions.
-5. Review conditionals.
-6. Organize code by creating and calling functions.
-7. Create an array and retrieve an array element using the index.
-8. Create loops in Javascript to iterate over an array.
+1. Learn the purpose of the React JavaScript library
+2. Understand and define a React component.
+3. Understand and define the Virtual DOM.
+4. Begin project planning for the React project.
+5. Create and render a React component with props to pass data between components.
+6. Write JSX.
+7. Review and practice writing React components that return JSX, and passing props.
+8. Work on their Trivia project.
+
 
 ---
 
 ## Vocabulary
-JS: variables, conditionals, functions, parameters, arguments, declaration, invoke/call, array, element, index, array methods, object, property, value, dot notation, for loops, forEach loops, iterate
 
-Other: fellowship, agenda, Slack, scrum, integrated development environment (IDE), documentation, console, debugging

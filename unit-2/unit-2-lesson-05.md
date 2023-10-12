@@ -37,7 +37,7 @@
     - Students work individually or in small groups to solve the next two HackerRank problems.
     - Remind students to regularly check their work in the preview screen.<br><br>
 
-- 👀 Code It Solo Review (5) :
+- 👀 Code Solo Review (5) :
     - Discuss the solutions of Problem 3 specifically.
     - Address any questions or concerns students might have regarding the solutions.<br><br>
 

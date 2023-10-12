@@ -8,7 +8,7 @@
 - [Slides](https://docs.google.com/presentation/d/1lYpY32Xr9DDnUIHiWCxYGBHlxQ8AT3g4bAMTMMjCUfk/edit?usp=sharing) (make a copy for your program - link the copy)
 - [Coding Exercise(s), Part 1](https://github.com/itscodenation/flw2-u2l4-23-24-student-exercises-part-1)
 - [Coding Exercise(s), Part 2](https://github.com/itscodenation/flw2-u2l4-23-24-student-exercises-part-2)
-- [Exit Ticket]()
+- [Exit Ticket](https://forms.gle/7o3F2nPESXUpuwS79)
 
 <br>
 

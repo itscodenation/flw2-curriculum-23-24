@@ -34,6 +34,10 @@
     - This is a time for students to go through your portfolio using the rubric.
     - Students will add or change any sections to ensure it's up-to-date.<br><br>
 
+- ✍️ Survey (5) :
+    - Students will complete the Unit 1 Survey.
+    - This is an important data point/piece of feedback - ensure all students submit.<br><br>
+
 - 👋 Closing (10) :
     - Direct students to the Exit Ticket in the Class Agenda.
     - Ensure they submit before leaving.<br><br>

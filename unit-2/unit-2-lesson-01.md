@@ -6,7 +6,6 @@
 
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/12DHAWTK9gPYoZkD0Ry_OHBCo38iJMjMYTNnqGum-hYk/edit?usp=sharing) (make a copy for your program - link the copy)
-- [Do Now - Unit 1 Survey](https://forms.gle/Qr2GoYs7JqASyVwW8)
 - [Unit 2 Project Plan](https://docs.google.com/document/d/19vMZ4mt0Qv0xn42BaK-Lo67ufpCPt2X0kvzaAU2UEGU/edit?usp=sharing)
 - [Unit 2 Starter Code](https://github.com/itscodenation/flw2-trivia-23-24-starter)
 - [Unit 2 Project Example](https://csb-etsuz6.netlify.app/)

@@ -10,6 +10,7 @@
 - [Coding Exercise(s)](https://github.com/itscodenation/flw2-u1l6-23-24-student-exercises)
 - [Portfolio Rubric](https://docs.google.com/document/d/1OJXGhIK65V18QT9YfYc7OtGi3gcwb3r-2PwhSqPRCVw/edit?usp=sharing)
 - [Project Submission Form](https://forms.gle/5BQLyaNjbMnQd1du9)
+- [Unit 1 Survey](https://forms.gle/J1xtiAcfDSt24FkU8)
 - [Exit Ticket](https://forms.gle/CPrmJxRwkHTeB9gz9)
 
 <br>
@@ -27,7 +28,7 @@
 
 - ⏳ Break (10)<br><br>
 
-- 👩‍💻 Portfolio Workshop (45) :
+- 👩‍💻 Portfolio Workshop (40) :
     - Students will have some time to work on their portfolio.
     - They should have started/completed one in Fellowship I.
     - This is a time for students to go through your portfolio using the rubric.

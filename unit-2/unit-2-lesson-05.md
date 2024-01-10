@@ -7,7 +7,7 @@
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/1hz04DmK-QAcWlEJR6hplt9fMyicq8XyFi4xK5q1i0Ao/edit?usp=sharing) (make a copy for your program - link the copy)
 - No coding exercises for students to fork. They will practice in HackerRank for this lesson.
-- [HackerRank Exercise](https://hr.gs/statepractice)
+- [HackerRank Exercise](https://www.hackerrank.com/test/c1oi2ft3p4k/61c47c6359e6cea615bf56ffcdf41671)
 - [Exit Ticket](https://forms.gle/PbTi82FVKQvht1Pr7)
 
 <br>

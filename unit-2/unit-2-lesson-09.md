@@ -22,11 +22,6 @@
 
 ## Key Points
 
-⏳ Break (10)
-💻 Project Wrap-Up (45)
-👋 Exit Ticket & Closing (10)
-
-
 - 👋 Welcome & Do Now (10) :
     - Begin the session with a welcome message and a short activity to engage students.
     - Have students complete the Do Now.<br><br>

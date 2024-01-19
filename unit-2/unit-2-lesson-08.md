@@ -6,6 +6,7 @@
 
 📖 Link Materials to Class Agenda:
 - [Slides](https://docs.google.com/presentation/d/15lsEbMwL1_GF1jX_-U1zW2qEzTXQvqkKnQt8F4uZRRU/edit?usp=sharing) (make a copy for your program - link the copy)
+- [Do Now](https://codenation.padlet.org/mikahughes/make-a-copy-flw2-unit-2-temp-check-1kfwwrt9rjv1h046) (make a copy for your program - link the copy)
 - [Coding Exercise(s), Part 1](https://github.com/itscodenation/flw2-u2l8-23-24-student-exercise-part-1)
 - [Coding Exercise(s), Part 2](https://github.com/itscodenation/flw2-u2l8-23-24-student-exercise-part-2)
 - [Resume Rubric](https://docs.google.com/document/d/1Jd77jYshhnr0UJX_eAwLG6G1jhoCU3fCUPKgI0czZQg/edit?usp=sharing)

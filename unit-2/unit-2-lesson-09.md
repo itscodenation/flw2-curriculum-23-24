@@ -1,9 +1,10 @@
 # Lesson 2.9: Project Work Time (Optional)
 
 <br>
-This lesson is meant to be almost entirely dedicated to project work time, and it is the last block of work time students are scheduled to have on this project.
 
-You could add a review to this lesson if there’s a particular React concept or skill you’d like to go over with students before they have project work time. 
+- This lesson is meant to be almost entirely dedicated to project work time.
+- It is the last block of work time students are scheduled to have on this project.
+- There is optional time for a quick review with students.
 <br>
 
 ## Lesson Materials

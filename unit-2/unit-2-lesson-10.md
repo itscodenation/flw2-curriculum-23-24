@@ -21,25 +21,33 @@
 
 ## Key Points
 
-- 👋 Welcome & Do Now (10) :
+- 👋 Welcome & Do Now (5) :
     - Begin the session with a welcome message and a short activity to engage students.
-    - Have students complete the Do Now.<br><br>
+    - There is no Do Now for this lesson.<br><br>
 
 - 📑 LinkedIn Workshop (25) :
-    - <br><br>
+    - Provide a detailed walkthrough of LinkedIn profile creation and improvement.
+    - Refernce using the rubric as a guideline.
+    - Offer examples or perform a live demonstration to clarify each point.<br><br>
 
 - ✍️ Presentation Prep (20) :
-    - <br><br>
+    - Guide students in preparing their presentations.
+    - Focus on articulating their project goals, achievements, and learnings.
+    - Offer tips on effective presentation skills.<br><br>
 
 - ⏳ Break (10)<br><br>
 
 - 🎤 Presentations (40) :
-    - <br><br>
+    - Allocate time for each student to present their project.
+    - Encourage peer feedback and constructive criticism.<br><br>
 
 - 💻 Flex Time (10)
+    - This time can be used for questions, shout outs, a game.
+    - If you need it, use this time for presentations.
+    - This should be used for whatever best fits the class' needs. 
 
 - 📝 Survey & Closing (10):
-    - Students will complete the Unit 1 Survey.
+    - Students will complete the Unit 2 Survey.
     - This is an important data point/piece of feedback - ensure all students submit.
     - Ensure they submit before leaving.<br><br>
 

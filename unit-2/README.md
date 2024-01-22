@@ -5,7 +5,11 @@
 
 ## Deliverables
 
-- 
+- Exit Tickets
+- Trivia Project
+- Resume Link
+- LinkedIn Profile Link
+- Unit 2 Survey
 
 ---
 

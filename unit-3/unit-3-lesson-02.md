@@ -1,4 +1,4 @@
-# Lesson 3.2: LinkedIn, Presentations, & Survey
+# Lesson 3.2: Career Panel, Networking, & Reflection
 
 <br>
 

@@ -31,3 +31,6 @@
 
 ## Vocabulary
 
+JS/React: React, library, component, virtual DOM, component, instance, props, JSX, state variable, setter function, current value, initial state, useState function, event handler, callback function, destructuring
+
+Other: README, import, export

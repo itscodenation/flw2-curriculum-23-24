@@ -16,7 +16,7 @@
 - 👋 Welcome & Do Now (10) :
     - Briefly welcome students and introduce the day's objectives.
     - Conduct an icebreaker activity (details to be added by the lead volunteer).
-    - Create a short activity that meets students' needs. (optional)<br><br>
+    - Create a short Do Now activity that meets students' needs. (optional)<br><br>
 
 - 🧱 Structuring Your Project (5) :
     - Discuss components, props, state, event handlers, loops, conditionals, and their importance in building React applications.

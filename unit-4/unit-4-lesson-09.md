@@ -31,7 +31,7 @@
     - Remake the padlet template provided in the materials and link to the class agenda.<br><br>
 
 - 🎉 Celebrations (20) :
-    - *Note*: The awards provided can be changed to meet program size/project work. 
+    - *Note*: The awards provided should be changed to meet program size/project work. 
     - Announce awards for categories such as Best Use of New Technologies, Best Original Content, Most Creative Game Adaptation, Most Ambitious Project Scope, and Best Fit-and-Finish. 
     - Celebrate the winners and acknowledge the effort of all participants.
     - Conclude the program on a high note, leaving students inspired and motivated for their next steps.
